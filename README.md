@@ -5,6 +5,7 @@
     <!-- GitHub forks -->
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/teamsoundlabs/nexus?style=for-the-badge&logo=github&logoColor=white&labelColor=%2324292F&color=%234493F8">
     <!-- FOSSA project status -->
+    <br>
     <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fteamsoundlabs%2FNexus?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fteamsoundlabs%2FNexus.svg?type=small"/></a>
 </p>
 
