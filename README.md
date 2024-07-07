@@ -35,4 +35,4 @@ To run Nexus in it's development mode use `python main.py dev`.
 > [!NOTE]
 > When in a production environment we recommend using [PyPy](https://www.pypy.org/)
 
-To run Nexus in it's production mode use `python main.py`.
+To run Nexus in it's production mode use `pypy main.py`.
