@@ -1,0 +1,10 @@
+// Guilded configuration
+guilded:
+  
+  // Your bot's authentication token
+  token: ""
+
+  // Your bot's server id (This is the id of the server that owns the bot)
+  serverId: ""
+
+  
