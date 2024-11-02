@@ -1,5 +1,5 @@
 >[!WARNING]
-> Nexus has been archived as of `2/11/2024` due to Guilded.py going in-active, while the code will still work for the foreseeable future, we cannot guarantee that it'll be stable.
+> Nexus has been archived as of `2/11/2024` due to Guilded.py going inactive, while the code will still work for the foreseeable future, we cannot guarantee that it'll be stable. Thank you to everyone who used and supported our project and goal!
 
 # `🌌` Nexus
 <p>
